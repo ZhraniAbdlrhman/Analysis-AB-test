@@ -1,4 +1,4 @@
-# Analysis-AB-test
+# Analysis A\B test
 ## Analyze-A-B-Test-Results
 > This poject was completed as part of Udacity Data Analyst Nano Degree course requirements.
 
