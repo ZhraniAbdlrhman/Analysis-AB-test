@@ -16,3 +16,4 @@ Jupyter Notebbok.
 Findings  
 The conversion rate for the new page was not greater to that of old page.  
 The country of the user did not imapct the rate of conversion between the new and old page.
+
